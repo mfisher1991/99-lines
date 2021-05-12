@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(10, 53, 70);
+}
+
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Friend {
+    background-color: yellow;
+}
+
+.Friend>h3 {
+    text-transform: uppercase;
+    font-style: italic;
+    text-decoration: wavy;
+}
